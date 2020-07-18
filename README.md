@@ -1,1 +1,2 @@
-# calculator bnane ka Jadui Totka XD
+A simple calculator
+
